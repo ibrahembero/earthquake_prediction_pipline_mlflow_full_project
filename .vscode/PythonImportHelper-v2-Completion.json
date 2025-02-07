@@ -1,0 +1,499 @@
+[
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "calendar",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "calendar",
+        "description": "calendar",
+        "detail": "calendar",
+        "documentation": {}
+    },
+    {
+        "label": "joblib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "joblib",
+        "description": "joblib",
+        "detail": "joblib",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "pandas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pandas",
+        "description": "pandas",
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "datetime",
+        "description": "datetime",
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "pickle",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pickle",
+        "description": "pickle",
+        "detail": "pickle",
+        "documentation": {}
+    },
+    {
+        "label": "MinMaxScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "XGBRegressor",
+        "importPath": "xgboost",
+        "description": "xgboost",
+        "isExtraImport": true,
+        "detail": "xgboost",
+        "documentation": {}
+    },
+    {
+        "label": "preprocessing",
+        "importPath": "sklearn",
+        "description": "sklearn",
+        "isExtraImport": true,
+        "detail": "sklearn",
+        "documentation": {}
+    },
+    {
+        "label": "train_test_split",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "JsonResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "VotingRegressor",
+        "importPath": "sklearn.ensemble",
+        "description": "sklearn.ensemble",
+        "isExtraImport": true,
+        "detail": "sklearn.ensemble",
+        "documentation": {}
+    },
+    {
+        "label": "RandomForestRegressor",
+        "importPath": "sklearn.ensemble",
+        "description": "sklearn.ensemble",
+        "isExtraImport": true,
+        "detail": "sklearn.ensemble",
+        "documentation": {}
+    },
+    {
+        "label": "KNeighborsRegressor",
+        "importPath": "sklearn.neighbors",
+        "description": "sklearn.neighbors",
+        "isExtraImport": true,
+        "detail": "sklearn.neighbors",
+        "documentation": {}
+    },
+    {
+        "label": "mlflow",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "mlflow",
+        "description": "mlflow",
+        "detail": "mlflow",
+        "documentation": {}
+    },
+    {
+        "label": "mlflow.sklearn",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "mlflow.sklearn",
+        "description": "mlflow.sklearn",
+        "detail": "mlflow.sklearn",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "earthquake_mag_prediction.asgi",
+        "description": "earthquake_mag_prediction.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "earthquake_mag_prediction.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "earthquake_mag_prediction.settings",
+        "description": "earthquake_mag_prediction.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/5.0/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'django-insecure-8%-0m@kfdyc3zz^9w(qncr==yr!cie^xb!co4y=)v9(7vwcqg7'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "earthquake_mag_prediction.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "earthquake_mag_prediction.settings",
+        "description": "earthquake_mag_prediction.settings",
+        "peekOfCode": "SECRET_KEY = 'django-insecure-8%-0m@kfdyc3zz^9w(qncr==yr!cie^xb!co4y=)v9(7vwcqg7'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "earthquake_mag_prediction.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "earthquake_mag_prediction.settings",
+        "description": "earthquake_mag_prediction.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "earthquake_mag_prediction.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "earthquake_mag_prediction.settings",
+        "description": "earthquake_mag_prediction.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n]",
+        "detail": "earthquake_mag_prediction.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "earthquake_mag_prediction.settings",
+        "description": "earthquake_mag_prediction.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n]\nMIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',",
+        "detail": "earthquake_mag_prediction.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "earthquake_mag_prediction.settings",
+        "description": "earthquake_mag_prediction.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'earthquake_mag_prediction.urls'",
+        "detail": "earthquake_mag_prediction.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "earthquake_mag_prediction.settings",
+        "description": "earthquake_mag_prediction.settings",
+        "peekOfCode": "ROOT_URLCONF = 'earthquake_mag_prediction.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [\n            BASE_DIR / 'templates',\n        ],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [",
+        "detail": "earthquake_mag_prediction.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "earthquake_mag_prediction.settings",
+        "description": "earthquake_mag_prediction.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [\n            BASE_DIR / 'templates',\n        ],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',",
+        "detail": "earthquake_mag_prediction.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "earthquake_mag_prediction.settings",
+        "description": "earthquake_mag_prediction.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'earthquake_mag_prediction.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/5.0/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation",
+        "detail": "earthquake_mag_prediction.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "earthquake_mag_prediction.settings",
+        "description": "earthquake_mag_prediction.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/5.0/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "earthquake_mag_prediction.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "earthquake_mag_prediction.settings",
+        "description": "earthquake_mag_prediction.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "earthquake_mag_prediction.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "earthquake_mag_prediction.settings",
+        "description": "earthquake_mag_prediction.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.0/howto/static-files/\nSTATIC_URL = 'static/'\nSTATICFILES_DIRS = [\n    os.path.join(BASE_DIR,'static')\n]",
+        "detail": "earthquake_mag_prediction.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "earthquake_mag_prediction.settings",
+        "description": "earthquake_mag_prediction.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.0/howto/static-files/\nSTATIC_URL = 'static/'\nSTATICFILES_DIRS = [\n    os.path.join(BASE_DIR,'static')\n]\nSTATIC_ROOT = os.path.join(os.path.dirname(BASE_DIR),'static')",
+        "detail": "earthquake_mag_prediction.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "earthquake_mag_prediction.settings",
+        "description": "earthquake_mag_prediction.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.0/howto/static-files/\nSTATIC_URL = 'static/'\nSTATICFILES_DIRS = [\n    os.path.join(BASE_DIR,'static')\n]\nSTATIC_ROOT = os.path.join(os.path.dirname(BASE_DIR),'static')\n# Default primary key field type",
+        "detail": "earthquake_mag_prediction.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "earthquake_mag_prediction.settings",
+        "description": "earthquake_mag_prediction.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.0/howto/static-files/\nSTATIC_URL = 'static/'\nSTATICFILES_DIRS = [\n    os.path.join(BASE_DIR,'static')\n]\nSTATIC_ROOT = os.path.join(os.path.dirname(BASE_DIR),'static')\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field",
+        "detail": "earthquake_mag_prediction.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "earthquake_mag_prediction.settings",
+        "description": "earthquake_mag_prediction.settings",
+        "peekOfCode": "STATIC_URL = 'static/'\nSTATICFILES_DIRS = [\n    os.path.join(BASE_DIR,'static')\n]\nSTATIC_ROOT = os.path.join(os.path.dirname(BASE_DIR),'static')\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "earthquake_mag_prediction.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATICFILES_DIRS",
+        "kind": 5,
+        "importPath": "earthquake_mag_prediction.settings",
+        "description": "earthquake_mag_prediction.settings",
+        "peekOfCode": "STATICFILES_DIRS = [\n    os.path.join(BASE_DIR,'static')\n]\nSTATIC_ROOT = os.path.join(os.path.dirname(BASE_DIR),'static')\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "earthquake_mag_prediction.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_ROOT",
+        "kind": 5,
+        "importPath": "earthquake_mag_prediction.settings",
+        "description": "earthquake_mag_prediction.settings",
+        "peekOfCode": "STATIC_ROOT = os.path.join(os.path.dirname(BASE_DIR),'static')\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "earthquake_mag_prediction.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "earthquake_mag_prediction.settings",
+        "description": "earthquake_mag_prediction.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "earthquake_mag_prediction.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "earthquake_mag_prediction.urls",
+        "description": "earthquake_mag_prediction.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('', views.home),\n    path('predict/', views.predict),\n    path('predict/result/', views.result),\n]",
+        "detail": "earthquake_mag_prediction.urls",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": "earthquake_mag_prediction.views",
+        "description": "earthquake_mag_prediction.views",
+        "peekOfCode": "def home(request):\n    return render(request,'home.html')\ndef predict(request):\n    return render(request,'predict.html')\ndef result(request):\n    var1 = float(request.GET['longitude'])\n    var2 = float(request.GET['latitude'])\n    var3 = float(request.GET['depth'])\n    time_t = request.GET['timestamp']\n    var4 = convert_time_to_timestamp(time_t)",
+        "detail": "earthquake_mag_prediction.views",
+        "documentation": {}
+    },
+    {
+        "label": "predict",
+        "kind": 2,
+        "importPath": "earthquake_mag_prediction.views",
+        "description": "earthquake_mag_prediction.views",
+        "peekOfCode": "def predict(request):\n    return render(request,'predict.html')\ndef result(request):\n    var1 = float(request.GET['longitude'])\n    var2 = float(request.GET['latitude'])\n    var3 = float(request.GET['depth'])\n    time_t = request.GET['timestamp']\n    var4 = convert_time_to_timestamp(time_t)\n    scaled_values=scale_inputs(var1, var2, var3, var4)\n    # pred = knn.predict(np.array([var1, var2, var3, var4]).reshape(1, -1))",
+        "detail": "earthquake_mag_prediction.views",
+        "documentation": {}
+    },
+    {
+        "label": "result",
+        "kind": 2,
+        "importPath": "earthquake_mag_prediction.views",
+        "description": "earthquake_mag_prediction.views",
+        "peekOfCode": "def result(request):\n    var1 = float(request.GET['longitude'])\n    var2 = float(request.GET['latitude'])\n    var3 = float(request.GET['depth'])\n    time_t = request.GET['timestamp']\n    var4 = convert_time_to_timestamp(time_t)\n    scaled_values=scale_inputs(var1, var2, var3, var4)\n    # pred = knn.predict(np.array([var1, var2, var3, var4]).reshape(1, -1))\n    pred = knn.predict(scaled_values.reshape(1, -1))\n    # pred = pred[0]",
+        "detail": "earthquake_mag_prediction.views",
+        "documentation": {}
+    },
+    {
+        "label": "convert_time_to_timestamp",
+        "kind": 2,
+        "importPath": "earthquake_mag_prediction.views",
+        "description": "earthquake_mag_prediction.views",
+        "peekOfCode": "def convert_time_to_timestamp(real_time):\n        # Adjust format string to match 'YYYY-MM-DDTHH:MM:SS.sssZ' format\n        ts = datetime.datetime.strptime(real_time, '%Y-%m-%dT%H:%M:%S.%fZ')\n        # Use calendar.timegm to get the Unix timestamp\n        timestamp = calendar.timegm(ts.utctimetuple())\n        return float(timestamp)\n# here we will define function to scale data \n# using standard scaler\ndef scale_inputs(var1, var2, var3, var4):\n    \"\"\"",
+        "detail": "earthquake_mag_prediction.views",
+        "documentation": {}
+    },
+    {
+        "label": "scale_inputs",
+        "kind": 2,
+        "importPath": "earthquake_mag_prediction.views",
+        "description": "earthquake_mag_prediction.views",
+        "peekOfCode": "def scale_inputs(var1, var2, var3, var4):\n    \"\"\"\n    Scales the input data using StandardScaler.\n    Parameters:\n    var1, var2, var3, var4 (float): The input values to be scaled.\n    Returns:\n    np.ndarray: An array containing the scaled values.\n    \"\"\"\n    values = np.array([var1, var2, var3, var4], dtype=float).reshape(1, -1)\n    scaled_values = scaler.transform(values)",
+        "detail": "earthquake_mag_prediction.views",
+        "documentation": {}
+    },
+    {
+        "label": "model_file_path",
+        "kind": 5,
+        "importPath": "earthquake_mag_prediction.views",
+        "description": "earthquake_mag_prediction.views",
+        "peekOfCode": "model_file_path = 'C:/Users/dell/Downloads/knn_model_2025-02-07_11-36-33.pkl'\nknn = joblib.load(model_file_path)\nwith open('C:/Users/dell/Downloads/scaler_2025-02-07_11-36-33.pkl', 'rb') as f:\n    scaler = pickle.load(f)\n#################################\n#################################\ndef home(request):\n    return render(request,'home.html')\ndef predict(request):\n    return render(request,'predict.html')",
+        "detail": "earthquake_mag_prediction.views",
+        "documentation": {}
+    },
+    {
+        "label": "knn",
+        "kind": 5,
+        "importPath": "earthquake_mag_prediction.views",
+        "description": "earthquake_mag_prediction.views",
+        "peekOfCode": "knn = joblib.load(model_file_path)\nwith open('C:/Users/dell/Downloads/scaler_2025-02-07_11-36-33.pkl', 'rb') as f:\n    scaler = pickle.load(f)\n#################################\n#################################\ndef home(request):\n    return render(request,'home.html')\ndef predict(request):\n    return render(request,'predict.html')\ndef result(request):",
+        "detail": "earthquake_mag_prediction.views",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "earthquake_mag_prediction.wsgi",
+        "description": "earthquake_mag_prediction.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "earthquake_mag_prediction.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "manage",
+        "description": "manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'earthquake_mag_prediction.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "manage",
+        "documentation": {}
+    }
+]
