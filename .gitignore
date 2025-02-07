@@ -1,0 +1,6 @@
+# Ignore MLflow artifacts
+mlartifacts/
+mlruns/
+
+# Ignore virtual environment
+venv/
