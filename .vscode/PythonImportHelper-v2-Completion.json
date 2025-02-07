@@ -1,0 +1,140 @@
+[
+    {
+        "label": "pandas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pandas",
+        "description": "pandas",
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "train_test_split",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "RandomForestRegressor",
+        "importPath": "sklearn.ensemble",
+        "description": "sklearn.ensemble",
+        "isExtraImport": true,
+        "detail": "sklearn.ensemble",
+        "documentation": {}
+    },
+    {
+        "label": "joblib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "joblib",
+        "description": "joblib",
+        "detail": "joblib",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "datetime",
+        "description": "datetime",
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "calendar",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "calendar",
+        "description": "calendar",
+        "detail": "calendar",
+        "documentation": {}
+    },
+    {
+        "label": "mlflow",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "mlflow",
+        "description": "mlflow",
+        "detail": "mlflow",
+        "documentation": {}
+    },
+    {
+        "label": "mlflow.sklearn",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "mlflow.sklearn",
+        "description": "mlflow.sklearn",
+        "detail": "mlflow.sklearn",
+        "documentation": {}
+    },
+    {
+        "label": "SimpleImputer",
+        "importPath": "sklearn.impute",
+        "description": "sklearn.impute",
+        "isExtraImport": true,
+        "detail": "sklearn.impute",
+        "documentation": {}
+    },
+    {
+        "label": "KNeighborsRegressor",
+        "importPath": "sklearn.neighbors",
+        "description": "sklearn.neighbors",
+        "isExtraImport": true,
+        "detail": "sklearn.neighbors",
+        "documentation": {}
+    },
+    {
+        "label": "convert_to_timestamp",
+        "kind": 2,
+        "importPath": "pipeline_earth",
+        "description": "pipeline_earth",
+        "peekOfCode": "def convert_to_timestamp(real_time):\n    try:\n         # Adjust format string to match 'YYYY-MM-DDTHH:MM:SS.sssZ' format\n        ts = datetime.strptime(real_time, '%Y-%m-%dT%H:%M:%S.%fZ')\n        # Use calendar.timegm to get the Unix timestamp\n        timestamp = calendar.timegm(ts.utctimetuple())\n        return float(timestamp)\n    except ValueError:\n        # Handle the case where the format is invalid\n        return 'ValueError'",
+        "detail": "pipeline_earth",
+        "documentation": {}
+    },
+    {
+        "label": "run_pipeline",
+        "kind": 2,
+        "importPath": "pipeline_earth",
+        "description": "pipeline_earth",
+        "peekOfCode": "def run_pipeline():\n    # 1. Read data\n    file_path = r\"C:\\Users\\dell\\Downloads\\bronze.csv\"\n    if os.path.exists(file_path):\n        print(f\"The file exists at: {file_path}\")\n        df = pd.read_csv(file_path)\n        print(\"Data read successfully...\")\n    else:\n        print(f\"File not found at: {file_path}\")\n    # 2. Convert 'time' column to 'Timestamp'",
+        "detail": "pipeline_earth",
+        "documentation": {}
+    }
+]
